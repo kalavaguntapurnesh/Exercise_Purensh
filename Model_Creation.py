@@ -27,7 +27,6 @@ import os
 # and batch size
 INIT_LR = 1e-4
 EPOCHS = 20
-BS = 32
 DIRECTORY = 'dataset/'
 CATEGORIES = ["with_mask", "without_mask"]
 # grab the list of images in our dataset directory, then initialize
